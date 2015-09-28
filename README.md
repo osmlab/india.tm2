@@ -1,6 +1,6 @@
 # OpenStreetMap India - Emerald Style
 
-A carto style for OSM India based on Mapbox emerald style.
+A carto style for OSM India based on [Mapbox emerald style](https://github.com/mapbox/mapbox-studio-emerald.tm2).
 
 ## Installing
 - Get [Mapbox Studio](https://www.mapbox.com/mapbox-studio/)
